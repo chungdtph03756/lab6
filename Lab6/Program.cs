@@ -11,7 +11,15 @@ namespace Lab6
         static void Main(string[] args)
         {
             //chungdt
-            akjshdkj hsd
+            //akjshdkj hsd
+
+
+
+
+
+
+
+            ádfasdf
         }
     }
 }
